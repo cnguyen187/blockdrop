@@ -1,0 +1,16 @@
+{
+"companyName": "KhaoSZ",
+"productName": "Block Drop",
+"productVersion": "1.0",
+"dataUrl": "Block Drop.data.unityweb",
+"wasmCodeUrl": "Block Drop.wasm.code.unityweb",
+"wasmFrameworkUrl": "Block Drop.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
